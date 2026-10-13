@@ -13,7 +13,7 @@ An independent project demonstrating the practical application of AI governance 
 Defines program objectives, scope, stakeholders, governance approach, and implementation priorities.
 
 ### 2. AI Governance RACI Matrix
-[02 - AI Governance RACI](02-AI_Governance_RACI.pdf)-
+[02 - AI Governance RACI](02-AI_Governance_RACI_Matrix.pdf)-
 Maps governance activities to responsible, accountable, consulted, and informed stakeholders to clarify ownership and decision-making.
 
 ### 3. Governance Gap Analysis
